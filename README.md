@@ -15,10 +15,21 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m working on ML-based projects like **Gold Price Predictor**, **Ashray**, and **Foodoscope**  
-- 🌱 Currently learning **cloud deployment** and **generative AI**  
-- 💬 Ask me about **Python**, **ML**, **Streamlit**, or turning **data into insight**  
-- 🚀 Always building cool, useful stuff!
+
+Hi! I'm Rohit Sharma 👋 — a passionate learner currently diving deep into the world of Machine Learning and Generative AI 🤖✨.
+I started my journey with a strong foundation in competitive programming, which sharpened my problem-solving mindset 💡. Now, I channel that energy into building smart, data-driven projects.
+
+I've created several small ML projects using a powerful mix of tools and libraries:
+
+📊 Pandas and NumPy for data handling
+
+📉 Matplotlib and Seaborn for visualizations
+
+🧠 Scikit-learn and TensorFlow for building predictive models
+
+🌐 Streamlit for turning ML models into interactive web apps
+
+I love experimenting, learning by doing, and turning ideas into real-world solutions 💻🚀
 
 ---
 
