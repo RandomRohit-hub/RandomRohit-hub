@@ -1,6 +1,6 @@
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif" height="100" alt="wazzup gif" />
-  <h2 style="margin: 0;">Hi 👋! My name is Rohit Sharma</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h2 style="margin: 0;">👋 My name is Rohit Sharma</h2>
+  <img src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif" height="120" alt="wazzup gif" />
 </div>
 
 ---
