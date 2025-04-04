@@ -59,14 +59,14 @@ I love experimenting, learning by doing, and turning ideas into real-world solut
 
 ### 🌐 Connect with Me
 
+### 🌐 Connect with Me
+
 <div align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+ 
   <a href="www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://share.streamlit.io/your-username/your-app" target="_blank">
+  <a href="https://share.streamlit.io/RandomRohit-hub/gold-price-predictor/main/app.py" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
