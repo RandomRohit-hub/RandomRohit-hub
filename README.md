@@ -37,9 +37,9 @@
   <!-- ML / Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="30" alt="matplotlib logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="30" alt="matplotlib logo" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="seaborn logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="30" alt="streamlit logo" />
 </div>
