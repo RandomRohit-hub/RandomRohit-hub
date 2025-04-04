@@ -15,19 +15,15 @@
 
 ### 🧑‍💻 About Me
 
-
 Hi! I'm Rohit Sharma 👋 — a passionate learner currently diving deep into the world of Machine Learning and Generative AI 🤖✨.
 I started my journey with a strong foundation in competitive programming, which sharpened my problem-solving mindset 💡. Now, I channel that energy into building smart, data-driven projects.
 
 I've created several small ML projects using a powerful mix of tools and libraries:
 
-📊 Pandas and NumPy for data handling
-
-📉 Matplotlib and Seaborn for visualizations
-
-🧠 Scikit-learn and TensorFlow for building predictive models
-
-🌐 Streamlit for turning ML models into interactive web apps
+📊 **Pandas** and **NumPy** for data handling  
+📉 **Matplotlib** and **Seaborn** for visualizations  
+🧠 **Scikit-learn** and **TensorFlow** for building predictive models  
+🌐 **Streamlit** for turning ML models into interactive web apps  
 
 I love experimenting, learning by doing, and turning ideas into real-world solutions 💻🚀
 
@@ -37,33 +33,34 @@ I love experimenting, learning by doing, and turning ideas into real-world solut
 
 <div align="left">
   <!-- Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
 
   <!-- ML / Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="30" alt="matplotlib logo" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="seaborn logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="30" alt="streamlit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
 
-### 🌐 Connect with Me
-
 <div align="left">
- 
-  <a href="www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
+  <a href="mailto:rohitsharma123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /> rohitsharma123@gmail.com
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://share.streamlit.io/user/randomrohit-hub" target="_blank">
