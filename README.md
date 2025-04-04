@@ -57,7 +57,7 @@ I love experimenting, learning by doing, and turning ideas into real-world solut
 
 <div align="left">
   <a href="randomrohit002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /> rohitsharma123@gmail.com
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /> randomrohit002@gmail.com
   </a>
   <br>
   <a href="https://www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
