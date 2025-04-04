@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Rohit Sharma</h2>
+<div align="left" style="display: flex; align-items: center; gap: 15px;">
+  <h2>Hi 👋! My name is Rohit Sharma</h2>
+  <img src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif" height="60" alt="wazzup gif" />
+</div>
 
 ---
 
@@ -9,13 +12,9 @@
 
 ---
 
-<img align="right" height="150" src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif" />
-
----
-
 ### 🧑‍💻 About Me
 
-Hi! I'm Rohit Sharma 👋 — a passionate learner currently diving deep into the world of Machine Learning and Generative AI 🤖✨.
+Hi! I'm Rohit Sharma 👋 — a passionate learner currently diving deep into the world of Machine Learning and Generative AI 🤖✨.  
 I started my journey with a strong foundation in competitive programming, which sharpened my problem-solving mindset 💡. Now, I channel that energy into building smart, data-driven projects.
 
 I've created several small ML projects using a powerful mix of tools and libraries:
@@ -56,19 +55,4 @@ I love experimenting, learning by doing, and turning ideas into real-world solut
 ### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;">randomrohit002@gmail.com</span>
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <br><br>
-
-  <a href="https://share.streamlit.io/user/randomrohit-hub" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-
----
+  <img src="https://img.sh
