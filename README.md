@@ -1,25 +1,26 @@
 <h2 align="left">Hi 👋! My name is Rohit Sharma</h2>
 
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RandomRohit-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomRohit-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomRohit-hub&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomRohit-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/CInh77x8tkMAAAAM/wazzup-meme.gif" />
 
-###
+---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m working on ML-based projects like Gold Price Predictor, Ashray, and Foodoscope  
-- 🌱 Currently learning cloud deployment and generative AI  
-- 💬 Ask me about Python, ML, Streamlit, or turning data into insight  
+
+- 🔭 I’m working on ML-based projects like **Gold Price Predictor**, **Ashray**, and **Foodoscope**  
+- 🌱 Currently learning **cloud deployment** and **generative AI**  
+- 💬 Ask me about **Python**, **ML**, **Streamlit**, or turning **data into insight**  
 - 🚀 Always building cool, useful stuff!
 
-###
+---
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +44,7 @@
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="30" alt="streamlit logo" />
 </div>
 
-###
+---
 
 ### 🌐 Connect with Me
 
@@ -58,3 +59,5 @@
     <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
+
+---
