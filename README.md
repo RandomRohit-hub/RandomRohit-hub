@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <h2 style="margin: 0;">👋 My name is Rohit Sharma</h2>
-  <img src="https://giphy.com/gifs/headlikeanorange-eagle-bird-of-prey-ULSkhG8VfnUt2" height="150" alt="wazzup gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxxMmU2YzZkbnk4bTc5dWlhcDU4ajIzYXl2MWpzYWRyaWVldnRqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ULSkhG8VfnUt2/giphy.gif" height="150" alt="wazzup gif" />
 </div>
 
 ---
