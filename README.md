@@ -14,18 +14,35 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I'm Rohit Sharma 👋 — a passionate learner currently diving deep into the world of Machine Learning and Generative AI 🤖✨.  
-I started my journey with a strong foundation in competitive programming, which sharpened my problem-solving mindset 💡. Now, I channel that energy into building smart, data-driven projects.
+🔍 About Me
+I'm Rohit, a passionate and self-driven developer with a strong focus on AI, Machine Learning, and Full-Stack Development. My GitHub is a playground of real-world applications where I explore the boundaries of technology, from computer vision to generative AI to data science.
 
-I've created several small ML projects using a powerful mix of tools and libraries:
+🚀 What I Build:
 
-📊 **Pandas** and **NumPy** for data handling  
-📉 **Matplotlib** and **Seaborn** for visualizations  
-🧠 **Scikit-learn** and **TensorFlow** for building predictive models  
-🌐 **Streamlit** for turning ML models into interactive web apps  
+🤖 AI-Driven Interfaces – Projects like AI Virtual Mouse and Facial Landmark Detection showcase my expertise in OpenCV and real-time computer vision.
 
-I love experimenting, learning by doing, and turning ideas into real-world solutions 💻🚀
+📚 Intelligent Chatbots & RAG Systems – Built end-to-end Q&A assistants using LangChain, Groq, LLaMA, and Ollama, with capabilities like PDF document retrieval, message history, and conversational memory.
 
+📊 Data Science & Predictive Models – From disease prediction to loan approvals, I've created models for a variety of sectors including healthcare, finance, and sports (like IPL match prediction).
+
+🎥 Content Intelligence – Apps like YouTube & Web URL Summarizer and Text Summarizer demonstrate my work in NLP and large language models.
+
+🎯 Computer Vision Projects – Including YOLOv8 object detection, face recognition, and real-time tracking systems.
+
+🧮 ML Apps with Real-World Impact – Projects like Movie Recommendation, Gold Price Predictor, and Fake News Detection reflect my ability to transform data into actionable insights.
+
+🧠 Core Skills:
+
+Languages: Python, Jupyter, C++,JavaScript (basic)
+
+Frameworks: OpenCV, LangChain, YOLOv8, scikit-learn, Streamlit
+
+Concepts: Generative AI, Prompt Engineering, RAG, LLM Applications, Computer Vision, NLP, EDA
+
+Tools: Mediapipe, Ollama, Groq API, Google Gemma, Hugging Face
+
+🌱 What Drives Me:
+I love solving real-world problems using AI and ML. My motivation comes from learning by doing — building hands-on projects, experimenting with new models, and sharing my work with the open-source community
 ---
 
 ### 🛠️ Tech Stack
