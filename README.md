@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <h2 style="margin: 0;">👋 My name is Rohit Sharma</h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWowZmQ5MDB4Z2k4cnRyZWU0OWFjNHY1aXM3dnF1bXRja2U2a201cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YJIzOvDDVEm7vhAwvp/giphy.gif" height="150" alt="wazzup gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZxYXdxdjA0NjYzdWkzNmhibTV5NDVxaHdyd2dhbXk0NWEyMjhzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx5MJyZqAFsLS/giphy.gif" height="150" alt="wazzup gif" />
 </div>
 
 ---
