@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
   
-  <img src="https://media.giphy.com/media/jx5MJyZqAFsLS/giphy.gif" width="140" alt="AI wave gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" alt="AI wave gif" />
 </div>
 
 ---
@@ -50,6 +50,6 @@ Whether it’s a neural model or a web app, I believe learning happens best by *
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="spark gif" />
-</div>
+</div> -->
