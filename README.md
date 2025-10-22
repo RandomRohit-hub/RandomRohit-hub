@@ -1,6 +1,15 @@
 <!-- 🟦 PROFILE HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
+
+
+  <div align="center">
+  <a href="https://<your-username>.github.io/neonverse-3d/" target="_blank">
+    <img src="https://github.com/<your-username>/neonverse-3d/raw/main/neonverse-preview.gif" width="100%" alt="3D Animation Preview"/>
+  </a>
+  <p><i>⚡ Click to experience the live 3D animation ⚡</i></p>
+</div>
+
   
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" alt="AI wave gif" />
 </div>
