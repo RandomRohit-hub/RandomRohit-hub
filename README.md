@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-> “Code. Create. Learn. Repeat.”  
+ 
 
 Hi, I’m **Rohit Sharma**, a passionate developer focused on **AI, Machine Learning**, and **Full-Stack Development**.  
 I love turning ideas into intelligent systems — from **LLM chatbots** to **vision-powered AI tools**.
