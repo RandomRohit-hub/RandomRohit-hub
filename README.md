@@ -1,60 +1,70 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <h2 style="margin: 0;">👋 My name is Rohit Sharma</h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZxYXdxdjA0NjYzdWkzNmhibTV5NDVxaHdyd2dhbXk0NWEyMjhzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx5MJyZqAFsLS/giphy.gif" height="150" alt="wazzup gif" />
+<!-- 🟦 PROFILE HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
+  
+  <img src="https://media.giphy.com/media/jx5MJyZqAFsLS/giphy.gif" width="140" alt="AI wave gif" />
+</div>
+
+---
+
+### 🧠 About Me
+
+> “Code. Create. Learn. Repeat.”  
+
+Hi, I’m **Rohit Sharma**, a passionate developer focused on **AI, Machine Learning**, and **Full-Stack Development**.  
+I love turning ideas into intelligent systems — from **LLM chatbots** to **vision-powered AI tools**.
+
+🧩 **What I Build**
+- 🤖 **AI-Driven Interfaces:** Virtual Mouse, Facial Landmark Detection  
+- 💬 **Chatbots & RAG Systems:** LangChain, Groq, Ollama, LLaMA-powered assistants  
+- 📊 **Data Science Projects:** Disease prediction, loan approval, IPL prediction  
+- 🎥 **Content Intelligence:** LLM-based summarizers & topic analyzers  
+- 🎯 **Computer Vision:** YOLOv8 object detection, face recognition, tracking  
+- 🧮 **ML Apps:** Movie recommender, Gold price predictor, Fake news detector  
+
+🧰 **Core Skills**
+| Languages | Frameworks | Tools | Concepts |
+|------------|-------------|--------|-----------|
+| Python 🐍, C++, JavaScript | OpenCV, LangChain, Streamlit, scikit-learn | Hugging Face, Ollama, Groq, Mediapipe | LLM Apps, RAG, CV, NLP, EDA |
+
+---
+
+### ⚙️ Tech Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RandomRohit-hub&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomRohit-hub&layout=compact&theme=radical&hide_border=false&border_radius=12" height="160" alt="Top languages" />
+</div>
+
+---
+
+### 🚀 My Philosophy
+
+> “AI isn’t about replacing humans — it’s about amplifying what’s possible.”  
+
+I’m driven by curiosity and a passion for **building things that think**.  
+Whether it’s a neural model or a web app, I believe learning happens best by **doing**.  
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randomrohit002@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma-441b20297)
+[![Streamlit Badge](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/randomrohit-hub)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomRohit-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RandomRohit-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ---
 
-### 🧑‍💻 About Me
-
-🔍 **About Me**  
-I'm Rohit, a passionate and self-driven developer with a strong focus on AI, Machine Learning, and Full-Stack Development. My GitHub is a playground of real-world applications where I explore the boundaries of technology, from computer vision to generative AI to data science.
-
-🚀 **What I Build:**
-- 🤖 **AI-Driven Interfaces** – Projects like AI Virtual Mouse and Facial Landmark Detection using OpenCV.
-- 📚 **Chatbots & RAG Systems** – LangChain, Groq, LLaMA, Ollama-powered Q&A assistants with PDF/chat memory.
-- 📊 **Data Science Projects** – Disease prediction, loan approval, and IPL match prediction.
-- 🎥 **Content Intelligence** – YouTube/Web summarizers with LLMs and NLP.
-- 🎯 **Computer Vision** – YOLOv8 object detection, face recognition, and real-time tracking.
-- 🧮 **ML Apps** – Movie Recommendation, Gold Price Predictor, and Fake News Detection.
-
-🧠 **Core Skills:**
-- **Languages:** Python, Jupyter, C++, JavaScript (basic)  
-- **Frameworks:** OpenCV, LangChain, YOLOv8, scikit-learn, Streamlit  
-- **Concepts:** Generative AI, Prompt Engineering, RAG, LLM Apps, Computer Vision, NLP, EDA  
-- **Tools:** Mediapipe, Ollama, Groq API, Google Gemma, Hugging Face  
-
-🌱 **What Drives Me:**  
-I love solving real-world problems using AI and ML. My motivation comes from learning by doing — building hands-on projects, experimenting with new models, and sharing with the open-source community.
-
----
-
-
-
-
----
-
-### 🌐 Connect with Me
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;">randomrohit002@gmail.com</span>
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/rohit-sharma-441b20297" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <br><br>
-
-  <a href="https://share.streamlit.io/user/randomrohit-hub" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RandomRohit-hub&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
-
----
