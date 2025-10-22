@@ -29,15 +29,6 @@ I love turning ideas into intelligent systems — from **LLM chatbots** to **vis
 
 ---
 
-### ⚙️ Tech Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomRohit-hub&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomRohit-hub&layout=compact&theme=radical&hide_border=false&border_radius=12" height="160" alt="Top languages" />
-</div>
-
----
-
 ### 🚀 My Philosophy
 
 > “AI isn’t about replacing humans — it’s about amplifying what’s possible.”  
@@ -60,11 +51,5 @@ Whether it’s a neural model or a web app, I believe learning happens best by *
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RandomRohit-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RandomRohit-hub&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="spark gif" />
 </div>
