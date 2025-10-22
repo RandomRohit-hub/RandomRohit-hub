@@ -1,6 +1,6 @@
 <!-- 🟦 PROFILE HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=#ff0800center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=ff0800center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
   
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" alt="AI wave gif" />
 </div>
