@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Mexxx
+### 🧠 About Mexx
 
  
 
