@@ -24,7 +24,7 @@ I love turning ideas into intelligent systems — from **LLM chatbots** to **vis
 ### 🧰 Core Skills
 
 <div align="center">
-  <img src="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/e708580db047512744e3bbf8330ff860f6c3f11c/image/MAP.png?raw=true" width="95%" alt="Tech Skills Mind Map" />
+  <img src="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/313a4dab8dfadc976a06d5956847524d71537d25/image/MAP.png?raw=true" width="90%" alt="Tech Skills Mind Map" />
 </div>
 <br>
 
