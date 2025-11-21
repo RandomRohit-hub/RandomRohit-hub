@@ -1,4 +1,3 @@
-<!-- 🟦 PROFILE HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=ff0800center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Rohit+Sharma;AI+%26+ML+Developer;Full+Stack+%7C+Generative+AI+Explorer;Building+Futuristic+AI+Interfaces" alt="Typing SVG" />
   
@@ -8,8 +7,6 @@
 ---
 
 ### 🧠 About Me
-
- 
 
 Hi, I’m **Rohit Sharma**, a passionate developer focused on **AI, Machine Learning**, and **Full-Stack Development**.  
 I love turning ideas into intelligent systems — from **LLM chatbots** to **vision-powered AI tools**.
@@ -22,7 +19,15 @@ I love turning ideas into intelligent systems — from **LLM chatbots** to **vis
 - 🎯 **Computer Vision:** YOLOv8 object detection, face recognition, tracking  
 - 🧮 **ML Apps:** Movie recommender, Gold price predictor, Fake news detector  
 
-🧰 **Core Skills**
+---
+
+### 🧰 Core Skills
+
+<div align="center">
+  <img src="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/a14455e228cf0b89ffaf763e1f3f8a56ab8f3ac1/image/MAp.jpeg?raw=true" width="95%" alt="Tech Skills Mind Map" />
+</div>
+<br>
+
 | Languages | Frameworks | Tools | Concepts |
 |------------|-------------|--------|-----------|
 | Python 🐍, C++, JavaScript | OpenCV, LangChain, Streamlit, scikit-learn | Hugging Face, Ollama, Groq, Mediapipe | LLM Apps, RAG, CV, NLP, EDA |
@@ -49,7 +54,3 @@ Whether it’s a neural model or a web app, I believe learning happens best by *
 </div>
 
 ---
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="spark gif" />
-</div> -->
