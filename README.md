@@ -33,7 +33,7 @@ I love turning ideas into intelligent systems — from **LLM chatbots** to **vis
 
 <div align="center">
   <a href="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/main/image/MAP.jpeg">
-    <img src="image/MAP.jpeg" width="100%" alt="Rohit's Tech Stack Mind Map" />
+    <img src="image/MAP.jpeg" width="50%" alt="Rohit's Tech Stack Mind Map" />
   </a>
 </div>
 
