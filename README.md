@@ -1,111 +1,140 @@
+<!-- ========================= -->
+<!-- HERO SECTION (Animated) -->
+<!-- ========================= -->
+
 <div align="center">
 
+  <!-- Animated typing header -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=1F2937&center=true&vCenter=true&width=620&lines=Rohit+Sharma;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer+%7C+Applied+AI" 
-    alt="Professional Header" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&width=720&lines=Rohit+Sharma;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer+%7C+Applied+AI;Building+Reliable+Intelligent+Systems" 
+    alt="Animated Introduction"
   />
 
   <br><br>
 
-  <p>
-    Building reliable, human-centered AI systems with a strong engineering foundation.
+  <!-- Subtle animated divider -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&section=footer&reversal=true" 
+    width="420"
+  />
+
+  <br><br>
+
+  <p align="center">
+    <strong>Designing production-ready AI systems where research meets engineering discipline.</strong>
   </p>
 
   <br>
 
+  <!-- Action badges -->
   <a href="https://www.rohit.monster/">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-rohit.monster-111827?style=flat&logo=google-chrome&logoColor=white" 
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-rohit.monster-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:randomrohit002@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Email-Contact-111827?style=flat&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rohit-sharma-441b20297">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
 </div>
 
-<br>
+<br><br>
+
+<!-- ========================= -->
+<!-- ABOUT / PROFILE SUMMARY -->
+<!-- ========================= -->
+
+## 🧠 About Me
+
+I am a **Computer Science undergraduate** focused on **Artificial Intelligence, Machine Learning, and Full-Stack Engineering**.  
+My work emphasizes **bridging theoretical AI concepts with real-world, scalable implementations**.
+
+Rather than building demos, I focus on:
+- Engineering **robust ML pipelines**
+- Ensuring **model reliability and explainability**
+- Designing systems that **behave predictably under real constraints**
 
 ---
 
-## Profile Summary
+<!-- ========================= -->
+<!-- MOTION SKILLS SECTION -->
+<!-- ========================= -->
 
-I am a **Computer Science undergraduate** specializing in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
-My work centers on transforming research concepts into **production-ready AI systems**, with emphasis on **model reliability, data integrity, and real-world usability**.
-
-I am particularly interested in:
-- Applied **LLM systems** and retrieval-augmented architectures  
-- **Computer vision** for real-time perception  
-- Building **scalable ML applications** with clean engineering practices  
-
----
-
-## Technical Focus Areas
+## ⚙️ Technical Focus (Visual Map)
 
 <div align="center">
+
+  <!-- Hover-based skill visualization -->
   <a href="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/main/image/MAP.jpeg">
     <img 
       src="image/MAP.jpeg" 
-      width="400" 
-      alt="Technical Skills Overview" 
+      width="420"
+      alt="AI & Engineering Skill Map"
     />
   </a>
+
   <br>
-  <sub>Condensed view of my engineering and AI skill set</sub>
+  <sub>High-level representation of my AI & engineering stack</sub>
+
 </div>
 
 <br>
 
-| Area | Core Technologies |
-|-----:|------------------|
-| **Programming** | Python, C++, JavaScript |
-| **AI / ML** | scikit-learn, PyTorch, OpenCV, YOLOv8 |
-| **LLM Systems** | LangChain, RAG pipelines, Groq, Ollama |
-| **Web & Apps** | Streamlit, REST APIs, Frontend integration |
-| **Data** | EDA, feature engineering, model evaluation |
+| Domain | Stack |
+|------:|------|
+| **Languages** | Python · C++ · JavaScript |
+| **Machine Learning** | scikit-learn · PyTorch · OpenCV |
+| **Computer Vision** | YOLOv8 · Real-time inference pipelines |
+| **LLM Engineering** | LangChain · RAG · Groq · Ollama |
+| **Web Systems** | Streamlit · REST APIs · Frontend integration |
+| **Data & Evaluation** | EDA · Feature engineering · Metrics |
 
 ---
 
-## Selected Work Themes
+<!-- ========================= -->
+<!-- WORK THEMES (TIMELINE) -->
+<!-- ========================= -->
+
+## 🧩 Core Work Themes
+
 
 - **Intelligent Interfaces**  
-  Vision-based interaction systems, gesture recognition, and facial landmark tracking.
+  Gesture recognition, facial landmark tracking, vision-driven interaction.
 
-- **LLM-Powered Applications**  
-  Context-aware chatbots, document Q&A systems, and knowledge retrieval pipelines.
+- **LLM-Powered Systems**  
+  Context-aware chatbots, document intelligence, retrieval-augmented pipelines.
 
-- **Predictive Analytics**  
-  Applied machine learning models for healthcare, finance, and sports analytics.
+- **Predictive Modeling**  
+  Applied ML in healthcare, sports analytics, and structured datasets.
 
-- **Computer Vision**  
-  Object detection, tracking, and real-time inference pipelines.
-
----
-
-## Engineering Philosophy
-
-> *“Good AI systems are not defined by accuracy alone, but by how reliably they behave in the real world.”*
-
-I value:
-- Simplicity over unnecessary complexity  
-- Explainability alongside performance  
-- Engineering discipline in AI workflows  
+- **Computer Vision Pipelines**  
+  Detection, tracking, optimization for real-time performance.
 
 ---
 
-## Connect
+<!-- ========================= -->
+<!-- PHILOSOPHY SECTION -->
+<!-- ========================= -->
+
+## 🧠 Engineering Philosophy
+
+> *Accuracy impresses in papers. Reliability earns trust in production.*
+
+I consistently optimize for:
+- Deterministic system behavior  
+- Transparent model decisions  
+- Maintainable, testable AI workflows  
+
+---
+
+<!-- ========================= -->
+<!-- FOOTER / CONNECT -->
+<!-- ========================= -->
+
+## 🤝 Connect
 
 <div align="center">
 
@@ -113,13 +142,12 @@ I value:
 [LinkedIn](https://www.linkedin.com/in/rohit-sharma-441b20297) ·
 [Email](mailto:randomrohit002@gmail.com)
 
-</div>
+<br><br>
 
-<br>
+<!-- Animated profile views -->
+<img 
+  src="https://komarev.com/ghpvc/?username=RandomRohit-hub&style=for-the-badge&color=0F172A" 
+  alt="Profile Views"
+/>
 
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=RandomRohit-hub&style=flat&color=6B7280" 
-    alt="Profile Views" 
-  />
 </div>
