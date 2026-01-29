@@ -200,32 +200,7 @@ Vision interfaces
 </tr>
 </table>
 
-<br>
 
----
-
-<br>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomRohit-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=RandomRohit-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E2E8F0" alt="GitHub Stats" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomRohit-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RandomRohit-hub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=EC4899&point=E2E8F0" alt="Activity Graph" width="49%"/>
-
-</div>
-
-<br>
-
----
-
-<br>
 
 <!-- Philosophy Section with Custom Design -->
 <div align="center">
