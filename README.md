@@ -283,7 +283,7 @@ Design for scalability<br>from day one.
 <br>
 
 <!-- Current Focus -->
-<div align="center">
+<!-- <div align="center"> -->
 
 ## 🚀 Current Focus Areas
 
