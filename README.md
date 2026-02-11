@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dynamic 3D Header with Flame -->
-<img src="https://capsule-render.vercel.app/api?type=flame&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20System%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<!-- Dynamic 3D Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20System%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
@@ -302,7 +302,7 @@ Design for scalability<br>from day one.
 
 <br><br>
 
-<!-- Footer Flame -->
-<img src="https://capsule-render.vercel.app/api?type=flame&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
