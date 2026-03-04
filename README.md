@@ -297,8 +297,6 @@ Design for scalability<br>from day one.
 
 <br><br>
 
-<!-- Quote Section -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it&author=Alan%20Kay" width="600"/>
 
 <br><br>
 
