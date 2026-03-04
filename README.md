@@ -295,10 +295,7 @@ Design for scalability<br>from day one.
   <img src="https://img.shields.io/badge/💼_LinkedIn-0EA5E9?style=for-the-badge&logoColor=white" height="35"/>
 </a>
 
-<br><br>
 
-
-<br><br>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
