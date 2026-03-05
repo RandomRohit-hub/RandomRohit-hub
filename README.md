@@ -254,18 +254,7 @@ Design for scalability<br>from day one.
   <img src="image/MAP.jpeg" width="500" alt="Technical Skill Map" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </a>
 
-<br><br>
 
-<!-- Skill Progress Bars -->
-| Skill Domain | Proficiency |
-|:-------------|:------------|
-| **Machine Learning & AI** | ![](https://geps.dev/progress/90?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
-| **Computer Vision** | ![](https://geps.dev/progress/85?dangerColor=EC4899&warningColor=EC4899&successColor=EC4899) |
-| **LLM Engineering** | ![](https://geps.dev/progress/80?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=0EA5E9) |
-| **Full-Stack Development** | ![](https://geps.dev/progress/75?dangerColor=10B981&warningColor=10B981&successColor=10B981) |
-| **System Architecture** | ![](https://geps.dev/progress/82?dangerColor=F59E0B&warningColor=F59E0B&successColor=F59E0B) |
-
-</div>
 
 
 
