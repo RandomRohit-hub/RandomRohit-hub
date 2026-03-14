@@ -1,194 +1,95 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=200&section=header&text=ROHIT%20SHARMA&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%2F%2F%20ML%20Systems%20%2F%2F%20Builder&descAlignY=60&descColor=ffffff&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Systems%20%E2%80%A2%20Builder&descAlignY=60&descColor=ffffffcc&descSize=17" width="100%"/>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+SYSTEM+BOOT...+IDENTITY+RESOLVED%3A+ROHIT.EXE;%3E+STATUS%3A+%5BONLINE%5D+%5BBUILDING%5D+%5BSHIPPING%5D;%3E+MISSION%3A+Transform+research+AI+into+real+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+research+AI+into+real+products+%F0%9F%9A%80;Computer+Vision+%C2%B7+LLMs+%C2%B7+ML+Systems;CS+Undergraduate+%E2%86%92+Applied+AI+Engineer" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-rohit.monster-00ff41?style=for-the-badge&logo=googlechrome&logoColor=00ff41&labelColor=0d0d0d)](https://www.rohit.monster)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d0d0d)](https://www.linkedin.com/in/rohit-sharma-441b20297)
-[![Email](https://img.shields.io/badge/◈_EMAIL-signal_me-ff0055?style=for-the-badge&logo=gmail&logoColor=ff0055&labelColor=0d0d0d)](mailto:randomrohit002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohit.monster-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rohit.monster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma-441b20297)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randomrohit002@gmail.com)
 
 </div>
-
----
-
-## ⬡ `KERNEL.IDENTITY`
-
-```python
-class RohitSharma:
-    """
-    ┌──────────────────────────────────────────────────────────┐
-    │  NOT a researcher who never ships.                       │
-    │  NOT a hobbyist who only runs Jupyter notebooks.         │
-    │  A builder who takes AI from lab to production.          │
-    └──────────────────────────────────────────────────────────┘
-    """
-    def __init__(self):
-        self.codename        = "rohit.exe"
-        self.role            = "AI Engineer"
-        self.current_build   = "CS Undergraduate → Applied AI Systems"
-        self.stack           = {
-            "vision"    : ["YOLO", "OpenCV", "Pose Estimation", "Image Pipelines"],
-            "language"  : ["LLMs", "RAG", "LangChain", "Vector DBs"],
-            "ml_core"   : ["Predictive Analytics", "Feature Engineering", "Model Training"],
-            "infra"     : ["AI Infrastructure", "MLOps", "Production Deployment"],
-        }
-        self.os              = "Fueled by caffeine & compiler errors"
-        self.uptime          = "Always"
-
-    def mission(self) -> str:
-        return "Transform research AI into systems that actually work in the real world."
-
-rohit = RohitSharma()
-print(rohit.mission())
-# → Transform research AI into systems that actually work in the real world.
-```
-
----
-
-## ⬡ `NEURAL.ARCHITECTURE`
-
-```
-                        ┌─────────────────────────────────┐
-                        │     ROHIT.SHARMA // v2025.x      │
-                        └─────────────┬───────────────────┘
-                                      │
-           ┌──────────────────────────┼──────────────────────────┐
-           │                          │                          │
-    ┌──────▼──────┐          ┌────────▼────────┐        ┌────────▼────────┐
-    │  👁  VISION  │          │  🧠 LANGUAGE     │        │  ⚙ ML SYSTEMS  │
-    └──────┬──────┘          └────────┬────────┘        └────────┬────────┘
-           │                          │                          │
-    ┌──────▼──────┐          ┌────────▼────────┐        ┌────────▼────────┐
-    │ YOLO Detect │          │ RAG Pipelines   │        │ Model Training  │
-    │ Pose Estim. │          │ LLM Engineering │        │ Feature Eng.    │
-    │ Img Process │          │ Vector Search   │        │ Predictive AI   │
-    └─────────────┘          └─────────────────┘        └─────────────────┘
-```
-
----
-
-## ⬡ `ACTIVE_PROCESSES`
-
-<details>
-<summary><b>🟢 [PID 001] — FOODOSCOPE [RUNNING] — click to expand</b></summary>
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ ./foodoscope --mode=analyze --target=your_meal            ║
-║                                                              ║
-║  > Scanning flavor compounds...                              ║
-║  > Mapping health biomarkers...                              ║
-║  > Predicting compatibility matrix...  [██████████] DONE     ║
-║                                                              ║
-║  OUTPUT: AI platform that predicts flavor compatibility      ║
-║          + quantifies nutritional impact of your food.       ║
-║          Because eating should be intelligent.               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-</details>
-
-<details>
-<summary><b>🟢 [PID 002] — NEUROBIZ [RUNNING] — click to expand</b></summary>
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ ./neurobiz --audit=your_ai_system --ethics=strict         ║
-║                                                              ║
-║  > Probing decision boundaries...                            ║
-║  > Detecting bias vectors...                                 ║
-║  > Generating ethics report...         [██████████] DONE     ║
-║                                                              ║
-║  OUTPUT: AI ethics auditing engine for business AI systems.  ║
-║          Your AI shouldn't be a black box liability.         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-</details>
-
----
-
-## ⬡ `TECH.STACK`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff41)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0055)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=00ff41)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logoColor=00b4d8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=f5a623)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/sklearn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=ff0055)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00b4d8)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff0055)
-![FAISS](https://img.shields.io/badge/FAISS-0d0d0d?style=for-the-badge&logoColor=9b59b6)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d0d0d?style=for-the-badge&logoColor=9b59b6)
-
-</div>
-
----
-
-## ⬡ `ACTIVITY.MATRIX`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00b4d8&text_color=ffffff" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=matrix&background=0d0d0d&border=00ff41&ring=00ff41&fire=ff0055&currStreakLabel=00ff41&sideLabels=00b4d8&dates=888888" />
+## 👋 About Me
+
+I'm an **AI Engineer** focused on building systems that actually work — not just notebooks that look good on paper.
+
+- 🎓 CS Undergraduate, specializing in Applied AI
+- 🔭 Currently building **Foodoscope** and **NeuroBiz**
+- 🧠 Interested in Computer Vision, LLMs, and production ML
+- ⚡ I don't just train models — I ship them
+
+---
+
+## 🛠️ What I Work With
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### AI & LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+### Infra & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## ⬡ `SIGNAL.LOGS`
+## 🚀 Featured Projects
 
-```log
-[INFO]  I don't just train models — I deploy them.
-[INFO]  I don't just read papers — I build the systems they describe.
-[INFO]  Real AI Engineering = Research × Production × Obsession.
-[WARN]  Side effects may include: unsolicited AI advice at dinner.
-[DEBUG] Currently fighting with: something, always something.
-[OK]    Will trade: ML insights for strong coffee recommendations.
-```
+### 🍽️ Foodoscope
+> AI platform that predicts **flavor compatibility** and **health impact** of your meals.
+> Because eating should be as intelligent as you are.
 
----
-
-## ⬡ `OPEN.CHANNELS`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   PORTFOLIO  ──→  https://www.rohit.monster             │
-│   LINKEDIN   ──→  /in/rohit-sharma-441b20297            │
-│   EMAIL      ──→  randomrohit002@gmail.com              │
-│                                                         │
-│   Response time: faster than a gradient descent step.   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+### 🧩 NeuroBiz
+> AI **ethics auditing engine** for business AI systems.
+> Your AI shouldn't be a black box liability.
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-```
-> END OF FILE
-> PROCESS COMPLETE: rohit.sharma loaded successfully.
-> NEXT: git commit -m "ship something that matters"
-```
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=888"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=888"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=120&section=footer" width="100%"/>
+<br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohitsharma.rohitsharma&left_color=0d0d0d&right_color=00ff41&left_text=neural_pings)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
-**⬡ Engineered in the dark. Deployed in the light. ⬡**
+</div>
+
+---
+
+## 💬 Let's Talk
+
+<div align="center">
+
+| 🌐 Portfolio | 💼 LinkedIn | 📬 Email |
+|:---:|:---:|:---:|
+| [rohit.monster](https://www.rohit.monster) | [rohit-sharma](https://www.linkedin.com/in/rohit-sharma-441b20297) | [randomrohit002@gmail.com](mailto:randomrohit002@gmail.com) |
+
+<br/>
+
+*Open to collabs, interesting problems, and good conversations about AI.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
