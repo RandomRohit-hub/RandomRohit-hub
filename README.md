@@ -49,16 +49,6 @@ I'm an **AI Engineer** focused on building systems that actually work — not ju
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍽️ Foodoscope
-> AI platform that predicts **flavor compatibility** and **health impact** of your meals.
-> Because eating should be as intelligent as you are.
-
-### 🧩 NeuroBiz
-> AI **ethics auditing engine** for business AI systems.
-> Your AI shouldn't be a black box liability.
-
 
 
 ## 💬 Let's Talk
