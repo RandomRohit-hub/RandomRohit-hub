@@ -1,292 +1,169 @@
-<div align="center">
+# 🧠 ROHIT.OS
 
-<!-- Dynamic 3D Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20System%20Builder&descAlignY=55&descSize=18" width="100%"/>
+### AI Systems Engineer Interface
 
-<br>
+```
+Initializing RohitOS v1.0 ...
+Loading AI modules...
+Establishing neural pipelines...
+System ready.
+```
 
-<!-- Animated Tech Role Carousel -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+AI+Systems+That+Scale;Transforming+Research+Into+Production;Engineering+Intelligent+Solutions" alt="Typing SVG" />
-</a>
+> **User:** Rohit Sharma
+> **Role:** AI Engineer | ML Systems Builder
+> **Focus:** Production AI, LLM Systems, Computer Vision
 
-<br><br>
+---
 
-<!-- Social Links with Custom Styling -->
+# ⚡ System Status
+
+```
+AI Modules            : ACTIVE
+Machine Learning      : RUNNING
+Computer Vision       : ONLINE
+LLM Engineering       : OPERATIONAL
+Research → Production : IN PROGRESS
+```
+
+---
+
+# 🧬 Core Capabilities
+
+## Artificial Intelligence
+
+* Deep Learning Systems
+* Computer Vision Pipelines
+* Neural Network Training
+* Model Optimization
+
+## LLM Engineering
+
+* RAG Architectures
+* LLM Orchestration
+* Prompt Engineering
+* Vector Search Systems
+
+## Software Engineering
+
+* AI API Development
+* ML Deployment Pipelines
+* Backend Systems
+* Distributed Inference
+
+---
+
+# 🛠 Tech Stack
+
+```
+Languages
+├── Python
+├── C++
+└── JavaScript
+
+AI / ML
+├── PyTorch
+├── OpenCV
+├── YOLO
+└── Scikit-Learn
+
+LLM Stack
+├── LangChain
+├── Vector Databases
+├── Ollama / Groq
+└── RAG Pipelines
+
+Infrastructure
+├── Docker
+├── Linux
+├── FastAPI
+└── PostgreSQL
+```
+
+---
+
+# 🧪 Active Experiments
+
+### Foodoscope
+
+AI system that:
+
+* predicts flavor pairings
+* generates new recipes
+* evaluates nutritional impact
+
+### NeuroBiz
+
+Platform that audits business AI systems for:
+
+* bias
+* compliance
+* ethical risks
+
+### RAG Knowledge Systems
+
+Custom AI assistants built with:
+
+* Playwright scraping
+* semantic retrieval
+* LLM reasoning
+
+---
+
+# 📡 System Philosophy
+
+```
+if (AI == production) {
+    prioritize(reliability);
+    optimize(performance);
+    ensure(transparency);
+}
+```
+
+Principles:
+
+* Build **AI that works in reality**
+* Design systems that **scale**
+* Convert **research into real products**
+
+---
+
+# 📊 GitHub Telemetry
+
 <p align="center">
-  <a href="https://www.rohit.monster/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-rohit.monster-6366F1?style=for-the-badge&labelColor=1e293b&color=6366F1" alt="Portfolio"/>
-  </a>
-  <a href="mailto:randomrohit002@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-EC4899?style=for-the-badge&labelColor=1e293b&color=EC4899" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-sharma-441b20297">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0EA5E9?style=for-the-badge&labelColor=1e293b&color=0EA5E9" alt="LinkedIn"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=RandomRohit-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
-
-<!-- Animated Stats Bar -->
-<img src="https://komarev.com/ghpvc/?username=RandomRohit-hub&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
-<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomRohit-hub&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<br>
+# 🌐 Network Links
 
-<!-- Bio Section with Gradient Design -->
-<div align="center">
-
-### 『 🎯 Mission Statement 』
-
-<table>
-<tr>
-<td width="60%">
-
-```yaml
-engineer:
-  name: Rohit Sharma
-  role: AI & Machine Learning Engineer
-  education: Computer Science Undergraduate
-  focus: Applied AI + Production Systems
-  
-philosophy:
-  - "Ship code that survives contact with reality"
-  - "Optimize for reliability, not just accuracy"
-  - "Bridge the gap between research and production"
-  
-current_work:
-  - Engineering robust ML pipelines
-  - Building LLM-powered applications
-  - Computer vision systems at scale
+```
+Portfolio   → rohit.monster
+LinkedIn    → rohit-sharma-441b20297
+Email       → randomrohit002@gmail.com
 ```
 
-</td>
-<td width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="AI Animation"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 ---
 
-<br>
+# 🛰 Collaboration Protocol
 
-<!-- Tech Stack Showcase -->
-<div align="center">
-
-## 🛠️ Technology Arsenal
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,opencv,mongodb,postgres,docker,git,github,vscode,linux,nginx&perline=7" alt="Tech Stack"/>
-
-</div>
-
-<br>
-
-<!-- Detailed Tech Breakdown -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-```python
-core_frameworks = [
-    "PyTorch",      # Deep Learning
-    "scikit-learn", # Classical ML
-    "OpenCV",       # Computer Vision
-    "YOLO v8/v11",  # Object Detection
-]
-
-llm_engineering = [
-    "LangChain",    # LLM Orchestration
-    "RAG Systems",  # Retrieval-Augmented
-    "Groq/Ollama",  # Inference Engines
-    "Vector DBs",   # Semantic Search
-]
+```
+Looking for:
+- AI system builders
+- ML researchers
+- startup engineers
+- open source contributors
 ```
 
-</td>
-<td width="50%" valign="top">
+If you're building **serious AI systems**, let's collaborate.
 
-### 💻 Engineering & Systems
-```javascript
-backend_stack = {
-  languages: ["Python", "C++", "JavaScript"],
-  frameworks: ["FastAPI", "Streamlit", "Flask"],
-  databases: ["PostgreSQL", "MongoDB", "ChromaDB"],
-  deployment: ["Docker", "Linux", "REST APIs"]
-}
+---
 
-specializations = [
-  "Real-time inference pipelines",
-  "Model optimization & deployment",
-  "System design & architecture"
-]
 ```
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<!-- Project Domains -->
-<div align="center">
-
-## 🎨 Domain Expertise
-
-</div>
-
-<table align="center">
-<tr>
-<td width="25%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-
-### 🎯 Computer Vision
-Real-time detection<br>
-Pose estimation<br>
-Image processing<br>
-OCR systems
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-
-### 💬 NLP & LLMs
-Chatbot architecture<br>
-RAG pipelines<br>
-Document intelligence<br>
-Context-aware AI
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-
-### 📊 Predictive Analytics
-Healthcare modeling<br>
-Sports analytics<br>
-Time series<br>
-Feature engineering
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-
-### 🖥️ Interactive AI
-Gesture control<br>
-Facial tracking<br>
-AR/VR integration<br>
-Vision interfaces
-
-</td>
-</tr>
-</table>
-
-
-
-<!-- Philosophy Section with Custom Design -->
-<div align="center">
-
-## 🧠 Engineering Principles
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎯 Reliability First
-*Accuracy impresses in demos.<br>Reliability earns trust in production.*
-
-Build systems that work<br>consistently, not occasionally.
-
-</td>
-<td align="center" width="33%">
-
-### 🔍 Transparent AI
-*Black boxes belong in labs,<br>not in production systems.*
-
-Ensure explainable decisions<br>and interpretable outputs.
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Performance Matters
-*Speed is a feature.<br>Optimization is engineering.*
-
-Design for scalability<br>from day one.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- Skills Visualization -->
-<div align="center">
-
-## 🎓 Skill Proficiency Map
-
-<!-- Visual Skill Map -->
-<a href="https://github.com/RandomRohit-hub/RandomRohit-hub/blob/main/image/MAP.jpeg">
-  <img src="image/MAP.jpeg" width="500" alt="Technical Skill Map" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</a>
-
-
-
-
-
-<!-- Connect Section with Style -->
-<div align="center">
-
-## 🤝 Let's Build Together
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="80%"/>
-
-<br>
-
-**Open to collaborating on projects that push the boundaries of AI engineering.**
-
-<br>
-
-<!-- Contact Buttons -->
-<a href="https://www.rohit.monster/">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-6366F1?style=for-the-badge&logoColor=white" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:randomrohit002@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Send_Email-EC4899?style=for-the-badge&logoColor=white" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rohit-sharma-441b20297">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0EA5E9?style=for-the-badge&logoColor=white" height="35"/>
-</a>
-
-
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+RohitOS shutting down interface...
+Session saved.
+```
