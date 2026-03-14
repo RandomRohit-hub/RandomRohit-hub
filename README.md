@@ -1,169 +1,190 @@
-# 🧠 ROHIT.OS
-
-### AI Systems Engineer Interface
+<!-- HEADER MATRIX RAIN EFFECT (GitHub doesn't render JS, so we use ASCII art + badges) -->
 
 ```
-Initializing RohitOS v1.0 ...
-Loading AI modules...
-Establishing neural pipelines...
-System ready.
+██████╗  ██████╗ ██╗  ██╗██╗████████╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
+██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+██████╔╝██║   ██║███████║██║   ██║       ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+██╔══██╗██║   ██║██╔══██║██║   ██║       ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+██║  ██║╚██████╔╝██║  ██║██║   ██║       ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-> **User:** Rohit Sharma
-> **Role:** AI Engineer | ML Systems Builder
-> **Focus:** Production AI, LLM Systems, Computer Vision
+<div align="center">
+
+```
+> SYSTEM BOOT SEQUENCE INITIATED...
+> LOADING NEURAL MODULES............[████████████████████] 100%
+> IDENTITY RESOLVED: Rohit Sharma
+> ROLE: AI Engineer / ML Systems Architect
+> STATUS: [ONLINE] [BUILDING] [SHIPPING]
+```
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-rohit.monster-00ff41?style=for-the-badge&logo=googlechrome&logoColor=00ff41&labelColor=0d0d0d)](https://www.rohit.monster)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-rohit--sharma-00b4d8?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d0d0d)](https://www.linkedin.com/in/rohit-sharma-441b20297)
+[![Email](https://img.shields.io/badge/◈_SIGNAL-randomrohit002@gmail.com-ff0055?style=for-the-badge&logo=gmail&logoColor=ff0055&labelColor=0d0d0d)](mailto:randomrohit002@gmail.com)
+
+</div>
 
 ---
 
-# ⚡ System Status
+## ⬡ `KERNEL.IDENTITY`
 
-```
-AI Modules            : ACTIVE
-Machine Learning      : RUNNING
-Computer Vision       : ONLINE
-LLM Engineering       : OPERATIONAL
-Research → Production : IN PROGRESS
-```
+```python
+class RohitSharma:
+    """
+    ┌──────────────────────────────────────────────────────────┐
+    │  NOT a researcher who never ships.                       │
+    │  NOT a hobbyist who only runs Jupyter notebooks.         │
+    │  A builder who takes AI from lab to production.          │
+    └──────────────────────────────────────────────────────────┘
+    """
 
----
+    def __init__(self):
+        self.codename        = "rohit.exe"
+        self.role            = "AI Engineer"
+        self.current_build   = "CS Undergraduate → Applied AI Systems"
+        self.stack           = {
+            "vision"    : ["YOLO", "OpenCV", "Pose Estimation", "Image Pipelines"],
+            "language"  : ["LLMs", "RAG", "LangChain", "Vector DBs"],
+            "ml_core"   : ["Predictive Analytics", "Feature Engineering", "Model Training"],
+            "infra"     : ["AI Infrastructure", "MLOps", "Production Deployment"],
+        }
+        self.os              = "Fueled by caffeine & compiler errors"
+        self.uptime          = "Always"
 
-# 🧬 Core Capabilities
+    def mission(self) -> str:
+        return "Transform research AI into systems that actually work in the real world."
 
-## Artificial Intelligence
+    def current_status(self) -> dict:
+        return {
+            "building"  : ["Foodoscope", "NeuroBiz"],
+            "learning"  : ["Always something new"],
+            "obsessed_with": "making AI actually useful",
+        }
 
-* Deep Learning Systems
-* Computer Vision Pipelines
-* Neural Network Training
-* Model Optimization
-
-## LLM Engineering
-
-* RAG Architectures
-* LLM Orchestration
-* Prompt Engineering
-* Vector Search Systems
-
-## Software Engineering
-
-* AI API Development
-* ML Deployment Pipelines
-* Backend Systems
-* Distributed Inference
-
----
-
-# 🛠 Tech Stack
-
-```
-Languages
-├── Python
-├── C++
-└── JavaScript
-
-AI / ML
-├── PyTorch
-├── OpenCV
-├── YOLO
-└── Scikit-Learn
-
-LLM Stack
-├── LangChain
-├── Vector Databases
-├── Ollama / Groq
-└── RAG Pipelines
-
-Infrastructure
-├── Docker
-├── Linux
-├── FastAPI
-└── PostgreSQL
+rohit = RohitSharma()
+print(rohit.mission())
+# → Transform research AI into systems that actually work in the real world.
 ```
 
 ---
 
-# 🧪 Active Experiments
-
-### Foodoscope
-
-AI system that:
-
-* predicts flavor pairings
-* generates new recipes
-* evaluates nutritional impact
-
-### NeuroBiz
-
-Platform that audits business AI systems for:
-
-* bias
-* compliance
-* ethical risks
-
-### RAG Knowledge Systems
-
-Custom AI assistants built with:
-
-* Playwright scraping
-* semantic retrieval
-* LLM reasoning
-
----
-
-# 📡 System Philosophy
+## ⬡ `NEURAL.ARCHITECTURE`
 
 ```
-if (AI == production) {
-    prioritize(reliability);
-    optimize(performance);
-    ensure(transparency);
-}
-```
-
-Principles:
-
-* Build **AI that works in reality**
-* Design systems that **scale**
-* Convert **research into real products**
-
----
-
-# 📊 GitHub Telemetry
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RandomRohit-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomRohit-hub&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Network Links
-
-```
-Portfolio   → rohit.monster
-LinkedIn    → rohit-sharma-441b20297
-Email       → randomrohit002@gmail.com
+                        ┌─────────────────────────────────┐
+                        │     ROHIT.SHARMA // v2025.x      │
+                        └─────────────┬───────────────────┘
+                                      │
+           ┌──────────────────────────┼──────────────────────────┐
+           │                          │                          │
+    ┌──────▼──────┐          ┌────────▼────────┐        ┌────────▼────────┐
+    │  👁  VISION  │          │  🧠 LANGUAGE     │        │  ⚙ ML SYSTEMS  │
+    └──────┬──────┘          └────────┬────────┘        └────────┬────────┘
+           │                          │                          │
+    ┌──────▼──────┐          ┌────────▼────────┐        ┌────────▼────────┐
+    │ YOLO Detect │          │ RAG Pipelines   │        │ Model Training  │
+    │ Pose Estim. │          │ LLM Engineering │        │ Feature Eng.    │
+    │ Img Process │          │ Vector Search   │        │ Predictive AI   │
+    └─────────────┘          └─────────────────┘        └─────────────────┘
 ```
 
 ---
 
-# 🛰 Collaboration Protocol
+## ⬡ `ACTIVE_PROCESSES`
+
+### `[PID 001]` — **FOODOSCOPE** `[RUNNING]`
 
 ```
-Looking for:
-- AI system builders
-- ML researchers
-- startup engineers
-- open source contributors
+╔══════════════════════════════════════════════════════════════╗
+║  $ ./foodoscope --mode=analyze --target=your_meal            ║
+║                                                              ║
+║  > Scanning flavor compounds...                              ║
+║  > Mapping health biomarkers...                              ║
+║  > Predicting compatibility matrix...  [██████████] DONE     ║
+║                                                              ║
+║  OUTPUT: AI platform that predicts flavor compatibility      ║
+║          + quantifies nutritional impact of your food.       ║
+║          Because eating should be intelligent.               ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-If you're building **serious AI systems**, let's collaborate.
 
 ---
 
+### `[PID 002]` — **NEUROBIZ** `[RUNNING]`
+
 ```
-RohitOS shutting down interface...
-Session saved.
+╔══════════════════════════════════════════════════════════════╗
+║  $ ./neurobiz --audit=your_ai_system --ethics=strict         ║
+║                                                              ║
+║  > Probing decision boundaries...                            ║
+║  > Detecting bias vectors...                                 ║
+║  > Generating ethics report...         [██████████] DONE     ║
+║                                                              ║
+║  OUTPUT: AI ethics auditing engine for business AI systems.  ║
+║          Your AI shouldn't be a black box liability.         ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## ⬡ `TECH.STACK`
+
+<div align="center">
+
+| Layer | Modules |
+|---|---|
+| **Vision** | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) ![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=00ff41) ![YOLO](https://img.shields.io/badge/YOLO-0d0d0d?style=flat-square&logoColor=00ff41) |
+| **Language Models** | ![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logoColor=00b4d8) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=flat-square&logo=huggingface&logoColor=00b4d8) ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=00b4d8) |
+| **ML Core** | ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=ff0055) ![scikit--learn](https://img.shields.io/badge/sklearn-0d0d0d?style=flat-square&logo=scikit-learn&logoColor=ff0055) |
+| **Vector DBs** | ![Pinecone](https://img.shields.io/badge/Pinecone-0d0d0d?style=flat-square&logoColor=9b59b6) ![FAISS](https://img.shields.io/badge/FAISS-0d0d0d?style=flat-square&logoColor=9b59b6) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00b4d8) ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff0055) |
+
+</div>
+
+---
+
+## ⬡ `SIGNAL.LOGS`
+
+```
+[INFO]  I don't just train models — I deploy them.
+[INFO]  I don't just read papers — I build the systems they describe.
+[INFO]  Real AI Engineering = Research × Production × Obsession.
+[WARN]  Side effects may include: unsolicited AI advice at dinner.
+[DEBUG] Currently fighting with: something, always something.
+[OK]    Will trade: ML insights for strong coffee recommendations.
+```
+
+---
+
+## ⬡ `OPEN.CHANNELS`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   PORTFOLIO  ──→  https://www.rohit.monster             │
+│   LINKEDIN   ──→  /in/rohit-sharma-441b20297            │
+│   EMAIL      ──→  randomrohit002@gmail.com              │
+│                                                         │
+│   Response time: faster than a gradient descent step.   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+```
+> END OF FILE
+> PROCESS COMPLETE: rohit.sharma loaded successfully.
+> NEXT: git commit -m "ship something that matters"
+```
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohitsharma.rohitsharma&left_color=0d0d0d&right_color=00ff41&left_text=neural_pings)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⬡ Engineered in the dark. Deployed in the light. ⬡</sub>
+</div>
