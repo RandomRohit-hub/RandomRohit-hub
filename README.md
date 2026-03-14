@@ -59,22 +59,7 @@ I'm an **AI Engineer** focused on building systems that actually work — not ju
 > AI **ethics auditing engine** for business AI systems.
 > Your AI shouldn't be a black box liability.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=888"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=888"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-</div>
-
----
 
 ## 💬 Let's Talk
 
