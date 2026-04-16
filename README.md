@@ -12,7 +12,15 @@ I enjoy building things that feel meaningful — whether it's analyzing data, de
 
 ## Rohit's GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="image/image.jpg" width="600"/>
+</p>
 
 ---
 
