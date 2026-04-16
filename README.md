@@ -17,4 +17,4 @@ I enjoy building things that feel meaningful — whether it's analyzing data, de
 
 ---
 
-*Last updated automatically — still building, still improving ✨*
+
